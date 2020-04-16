@@ -2,7 +2,7 @@
 Hello, Iam jayasimha. I have designed a webpage based on my career and skills
 
 ## Repository Links
-https://jayasimha099.github.io/web-dev2019501099/Project0_Completed/my-wepage.html
+https://jayasimha099.github.io/web-dev2019501099/Project0_completed/my-wepage.html
 
 web page screen cast video Link
 https://drive.google.com/file/d/1iVGuILjChMQRqnL4Y63d1h2ihH03Val9/view?usp=sharing
@@ -28,8 +28,7 @@ Languages I have used to publish this page:
 1. my-webpage.html : it has a small intro about my education and my hobbies
 2. Skills_Learned.html : It contains professional skills I have possessed
 3. Contact_me.html : If anyone visits my page, they can contact me by filling their details
-4. resume1.html : Finally, It has an attachment of my resume.
-the visitor can get from any page on my website to any other page by following one or more hyperlinks.
+4. resume1.html : Finally, It has an attachment of my resume. The visitor can get from any page on my website to any other page by following one or more hyperlinks.
 
 ## Recommended Resources
 
